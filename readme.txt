@@ -32,7 +32,7 @@ This is the only lifestream plugin that can stream your wikipedia edits.
 
 This plugin uses lifestream.fm to stream your online life to your blog. Lifestream is better than other free online services I tried, like friendfeed. Because the hard thinking is done by lifestream.fm, the lifestream doesn't drain your wordpress resources. Lifestream.fm adds new possible streams all the time.
 
-=Where can I say that I like your plugin?=
+= Where can I say that I like your plugin? =
 
 http://robertbuzink.com/2008/lifestreamfm-wordpress-plugin/
 
